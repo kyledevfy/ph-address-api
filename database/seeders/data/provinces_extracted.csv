@@ -1,0 +1,88 @@
+,reg_id,prov_id,name
+0,1,128,Ilocos Norte
+1,1,129,Ilocos Sur
+2,1,133,La Union
+3,1,155,Pangasinan
+4,2,209,Batanes
+5,2,215,Cagayan
+6,2,231,Isabela
+7,2,250,Nueva Vizcaya
+8,2,257,Quirino
+9,3,308,Bataan
+10,3,314,Bulacan
+11,3,349,Nueva Ecija
+12,3,354,Pampanga
+13,3,369,Tarlac
+14,3,371,Zambales
+15,3,377,Aurora
+16,4,410,Batangas
+17,4,421,Cavite
+18,4,434,Laguna
+19,4,456,Quezon
+20,4,458,Rizal
+21,17,1740,Marinduque
+22,17,1751,Occidental Mindoro
+23,17,1752,Oriental Mindoro
+24,17,1753,Palawan
+25,17,1759,Romblon
+26,5,505,Albay
+27,5,516,Camarines Norte
+28,5,517,Camarines Sur
+29,5,520,Catanduanes
+30,5,541,Masbate
+31,5,562,Sorsogon
+32,6,604,Aklan
+33,6,606,Antique
+34,6,619,Capiz
+35,6,630,Iloilo
+36,6,645,Negros Occidental
+37,6,679,Guimaras
+38,7,712,Bohol
+39,7,722,Cebu
+40,7,746,Negros Oriental
+41,7,761,Siquijor
+42,8,826,Eastern Samar
+43,8,837,Leyte
+44,8,848,Northern Samar
+45,8,860,Samar
+46,8,864,Southern Leyte
+47,8,878,Biliran
+48,9,972,Zamboanga del Norte
+49,9,973,Zamboanga del Sur
+50,9,983,Zamboanga Sibugay
+51,9,997,City of Isabela (Not a Province)
+52,10,1013,Bukidnon
+53,10,1018,Camiguin
+54,10,1035,Lanao del Norte
+55,10,1042,Misamis Occidental
+56,10,1043,Misamis Oriental
+57,11,1123,Davao del Norte
+58,11,1124,Davao del Sur
+59,11,1125,Davao Oriental
+60,11,1182,Davao de Oro
+61,11,1186,Davao Occidental
+62,12,1247,Cotabato
+63,12,1263,South Cotabato
+64,12,1265,Sultan Kudarat
+65,12,1280,Sarangani
+66,12,1298,City of Cotabato (Not a Province)
+67,13,1339,"NCR, City of Manila, First District (Not a Province)"
+68,13,1374,"NCR, Second District (Not a Province)"
+69,13,1375,"NCR, Third District (Not a Province)"
+70,13,1376,"NCR, Fourth District (Not a Province)"
+71,14,1401,Abra
+72,14,1411,Benguet
+73,14,1427,Ifugao
+74,14,1432,Kalinga
+75,14,1444,Mountain Province
+76,14,1481,Apayao
+77,15,1507,Basilan
+78,15,1536,Lanao del Sur
+79,15,1538,Maguindanao
+80,15,1566,Sulu
+81,15,1570,Tawi-Tawi
+82,16,1602,Agusan del Norte
+83,16,1603,Agusan del Sur
+84,16,1667,Surigao del Norte
+85,16,1668,Surigao del Sur
+86,16,1685,Dinagat Islands
